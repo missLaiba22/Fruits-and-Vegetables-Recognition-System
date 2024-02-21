@@ -19,7 +19,9 @@ The dataset comprises three main folders:
 Each of these folders contains subfolders for different fruits and vegetables, where the respective food item images are stored.
 
 ### Data Collection
-The images in this dataset were scraped from Bing Image Search for a project.
+The images in this dataset were scraped from Kaggle Dataset for a project.
 
 ## Inspiration
 This dataset can be utilized for various applications, such as building a food recognition system that identifies food items from captured photos.
+## Model
+We build the CNN deeplearning Model for Recognition System
